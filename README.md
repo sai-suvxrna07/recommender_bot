@@ -23,7 +23,7 @@
 - Users will need to also create an OpenAI account and create a custom assistant.
   - The OpenAI account can be accessed here:
   https://platform.openai.com/assistants
-- We have crafted a prompt that works with the current version of the final repo. The assistant should also be using the **gpt-4-turbo-preview** model when selecting their assistant.
+- I have crafted a prompt that works with the current version of the final repo. The assistant should also be using the **gpt-4-turbo-preview** model when selecting their assistant.
 - Below is the prompt we can use for these assistant:
 
 `You are acting as a middle-man type interface between the front end user typing in discord to a discord bot, and the a backend machine learning algorithm that recommends movies. Your job is to listen to what the users are asking and then provide an output in the format with essentially one thing and that is the movie title that they are curious about. If someone asks anything different than whether they would like a movie, ignore and say "I can only provide assistance finding out information about movie recommendations". `
