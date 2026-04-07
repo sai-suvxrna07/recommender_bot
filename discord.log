@@ -1,0 +1,16 @@
+[2026-04-06 21:37:10] [INFO    ] discord_bot: Logged in as T-1000
+[2026-04-06 21:37:10] [INFO    ] discord_bot: discord.py API version: 2.5.2
+[2026-04-06 21:37:10] [INFO    ] discord_bot: Python version: 3.12.9
+[2026-04-06 21:37:10] [INFO    ] discord_bot: Running on: Darwin 25.4.0 (posix)
+[2026-04-06 21:37:10] [INFO    ] discord_bot: -------------------
+[2026-04-06 21:37:10] [INFO    ] discord_bot: Loaded extension 'fun'
+[2026-04-06 21:37:10] [INFO    ] discord_bot: Loaded extension 'moderation'
+[2026-04-06 21:37:10] [INFO    ] discord_bot: Loaded extension 'owner'
+[2026-04-06 21:37:11] [ERROR   ] discord_bot: Failed to load extension recommend
+ExtensionFailed: Extension 'cogs.recommend' raised an error: ImportError: numpy.core.multiarray failed to import (auto-generated because you didn't call 'numpy.import_array()' after cimporting numpy; use '<void>numpy._import_array' to disable if you are certain you don't need it).
+[2026-04-06 21:37:11] [INFO    ] discord_bot: Loaded extension 'general'
+[2026-04-06 21:40:09] [INFO    ] discord_bot: Executed help command in Movie Recommender Bot (ID: 1275178551875997746) by xotic0666 (ID: 766710156926386178)
+[2026-04-06 21:40:16] [INFO    ] discord_bot: Executed ping command in Movie Recommender Bot (ID: 1275178551875997746) by xotic0666 (ID: 766710156926386178)
+[2026-04-06 21:40:43] [INFO    ] discord_bot: Executed ping command in Movie Recommender Bot (ID: 1275178551875997746) by xotic0666 (ID: 766710156926386178)
+[2026-04-06 21:41:11] [INFO    ] discord_bot: Executed say command in Movie Recommender Bot (ID: 1275178551875997746) by xotic0666 (ID: 766710156926386178)
+[2026-04-06 21:42:01] [INFO    ] discord_bot: Executed coinflip command in Movie Recommender Bot (ID: 1275178551875997746) by xotic0666 (ID: 766710156926386178)
